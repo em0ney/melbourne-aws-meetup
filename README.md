@@ -1,6 +1,6 @@
-# sydney-serverless-meetup-2
+# melbourne-aws-meetup
 
-> ##### Building a Serverless HipChat plugin... How we emulated S3, DynamoDB and API Gateway to create a truly local development environment
+> ##### We used the serverless framework to create a hipchat bot that you can deploy in 3 minutes. We have an example of this repository in action, where we report on a 1:n cloudwatch alarms in different SNS topics, direct to the hipchat glance - for realtime status on your applications!
 
 ### Presenter
 
